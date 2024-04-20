@@ -1,6 +1,6 @@
 # Spring Boot and Logback
 
-a simple logback.xml config for Spring Boot apps, configurable thru environment variables for dynamic configuration.
+a simple `logback.xml` config for Spring Boot apps, configurable thru environment variables for dynamic configuration.
 
 ## Configuration
 Parameterizing using `ROOT_LOG_LEVEL` for the root logger, and `APP_LOG_LEVEL`
