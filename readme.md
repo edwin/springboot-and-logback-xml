@@ -104,3 +104,9 @@ n D:\source\springboot-and-logback-xml)
 
 ## Usage with Environment Variables
 We can inject both `ROOT_LOG_LEVEL` and `APP_LOG_LEVEL` thru environment variables (especially in a containerized environment).
+
+## Blog Post
+Detail for this can be found in below blog post,
+```
+https://edwin.baculsoft.com/2024/04/dynamic-logback-log-level-in-spring-boot/
+```
